@@ -1,6 +1,6 @@
-^C:\DEV\FILESHARING\CMAKELISTS.TXT
+^C:\DEV\FILESHARING\NODE\CMAKELISTS.TXT
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Dev/FileSharing -BC:/Dev/FileSharing/build --check-stamp-file C:/Dev/FileSharing/build/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Dev/FileSharing/Node -BC:/Dev/FileSharing/Node/build --check-stamp-file C:/Dev/FileSharing/Node/build/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

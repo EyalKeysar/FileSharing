@@ -2,10 +2,10 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Dev\FileSharing\build\x64\Debug\ZERO_CHECK</FullPath>
+      <FullPath>C:\Dev\FileSharing\Bootstart_Node\build\x64\Debug\ZERO_CHECK</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Dev\FileSharing\build\Debug\my_program.exe</FullPath>
+      <FullPath>C:\Dev\FileSharing\Bootstart_Node\build\Debug\my_program.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

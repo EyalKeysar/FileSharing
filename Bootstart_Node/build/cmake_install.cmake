@@ -1,4 +1,4 @@
-# Install script for directory: C:/Dev/FileSharing
+# Install script for directory: C:/Dev/FileSharing/Bootstart_Node
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -47,6 +47,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "C:/Dev/FileSharing/build/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "C:/Dev/FileSharing/Bootstart_Node/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

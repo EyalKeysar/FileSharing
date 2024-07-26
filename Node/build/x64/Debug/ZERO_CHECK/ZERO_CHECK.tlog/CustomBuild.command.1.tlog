@@ -1,6 +1,6 @@
-^C:\DEV\FILESHARING\BUILD\CMAKEFILES\5DF5CEDDF03B013AE6D4F1E978C3BFEF\GENERATE.STAMP.RULE
+^C:\DEV\FILESHARING\NODE\BUILD\CMAKEFILES\9E84931DBE2123937EF7811C994986CE\GENERATE.STAMP.RULE
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Dev/FileSharing -BC:/Dev/FileSharing/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Dev/FileSharing/build/MyProject.sln
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Dev/FileSharing/Node -BC:/Dev/FileSharing/Node/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Dev/FileSharing/Node/build/MyProject.sln
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

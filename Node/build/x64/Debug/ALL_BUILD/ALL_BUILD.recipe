@@ -2,13 +2,13 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Dev\FileSharing\build\x64\Debug\ZERO_CHECK</FullPath>
+      <FullPath>C:\Dev\FileSharing\Node\build\x64\Debug\ZERO_CHECK</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Dev\FileSharing\build\Debug\my_program.exe</FullPath>
+      <FullPath>C:\Dev\FileSharing\Node\build\Debug\my_program.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Dev\FileSharing\build\x64\Debug\ALL_BUILD</FullPath>
+      <FullPath>C:\Dev\FileSharing\Node\build\x64\Debug\ALL_BUILD</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

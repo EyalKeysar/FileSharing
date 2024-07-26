@@ -15,3 +15,5 @@ add_executable(my_program
 
 # Include header files
 target_include_directories(my_program PUBLIC include)
+
+target_link_libraries(my_program ws2_32)

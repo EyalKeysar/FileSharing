@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Dev\FileSharing\src\main.cpp">
+    <ClCompile Include="C:\Dev\FileSharing\Node\src\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\FileSharing\src\MyClass.cpp">
+    <ClCompile Include="C:\Dev\FileSharing\Node\src\MyClass.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Dev\FileSharing\CMakeLists.txt" />
+    <CustomBuild Include="C:\Dev\FileSharing\Node\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{BA87CB4C-F208-37DC-926C-D18D467AB8F4}</UniqueIdentifier>
+      <UniqueIdentifier>{71F572C3-EB66-3229-AE14-6FD080316A64}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
