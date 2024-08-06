@@ -1,3 +1,0 @@
-C:/Dev/FileSharing/Bootstart_Node/build/CMakeFiles/my_program.dir
-C:/Dev/FileSharing/Bootstart_Node/build/CMakeFiles/ALL_BUILD.dir
-C:/Dev/FileSharing/Bootstart_Node/build/CMakeFiles/ZERO_CHECK.dir
