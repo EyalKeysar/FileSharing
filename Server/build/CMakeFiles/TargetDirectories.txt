@@ -1,0 +1,3 @@
+C:/Dev/FileSharing/Server/build/CMakeFiles/DFSServer.dir
+C:/Dev/FileSharing/Server/build/CMakeFiles/ALL_BUILD.dir
+C:/Dev/FileSharing/Server/build/CMakeFiles/ZERO_CHECK.dir

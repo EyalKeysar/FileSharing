@@ -11,7 +11,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 add_executable(DFSServer
     src/main.cpp
     src/MyClass.cpp
-    src/ServerSocketHandler.cpp
+    src/infrastructures/network/ServerSocketHandler.cpp
 )
 
 # Include header files
