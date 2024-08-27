@@ -1,4 +1,4 @@
-// ServerSocketHandler.h
+// server_socket_handler.h
 #ifndef SERVERSOCKETHANDLER_H
 #define SERVERSOCKETHANDLER_H
 

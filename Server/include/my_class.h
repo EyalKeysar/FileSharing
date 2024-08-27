@@ -1,6 +1,6 @@
 // TEMPLATE FOR C++ CLASS HEADER FILE
 
-// MyClass.h
+// my_class.h
 #ifndef MYCLASS_H
 #define MYCLASS_H
 
