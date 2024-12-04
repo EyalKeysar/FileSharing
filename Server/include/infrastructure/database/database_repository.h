@@ -5,7 +5,7 @@
 #include <string>
 
 namespace infrastructure {
-
+namespace database {
     class DatabaseRepository {
     public:
         virtual ~DatabaseRepository() = default;
@@ -20,5 +20,5 @@ namespace infrastructure {
         // General operations
         virtual bool InitializeDatabase() = 0;
     };
-
+} // namespace database
 } // namespace infrastructure
